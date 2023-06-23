@@ -75,12 +75,8 @@ GRPC를 사용한 CLI 학사관리 프로그램
 </div>
 </details>
 
-<details>
-<summary>콘솔화면</summary>
-<div markdown="1">       
+## 콘솔화면 
 
 ![image](https://github.com/dtd1614/Learning-management-system/assets/116648310/edd936b3-face-4a29-8af2-b94be5f1acc5)
 
-</div>
-</details>
 
