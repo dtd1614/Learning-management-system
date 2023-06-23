@@ -1,4 +1,3 @@
-![image](https://github.com/dtd1614/Learning-management-system/assets/116648310/8f9fa270-6700-4de8-b8ce-5343d6250438)# Learning-management-system
 GRPC를 사용한 CLI 학사관리 프로그램  
 
 <details>
