@@ -1,6 +1,6 @@
 # Learning-management-system
 
-GRPC를 사용한 CLI 학사관리 프로그램  
+GRPC를 사용한 CLI 학사관리 시스템
 
 ## 시스템 구조
 
