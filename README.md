@@ -1,4 +1,4 @@
-# Learning-management-system
+![image](https://github.com/dtd1614/Learning-management-system/assets/116648310/8f9fa270-6700-4de8-b8ce-5343d6250438)# Learning-management-system
 GRPC를 사용한 CLI 학사관리 프로그램  
 
 <details>
@@ -79,6 +79,21 @@ GRPC를 사용한 CLI 학사관리 프로그램
 </div>
 </details>
 
+<details>
+<summary>로깅 기능 시퀀스</summary>
+<div markdown="1">       
 
+![image](https://github.com/dtd1614/Learning-management-system/assets/116648310/2b606a8c-aa24-47dc-806b-14f03833675a)
 
+</div>
+</details>
+
+<details>
+<summary>콘솔화면</summary>
+<div markdown="1">       
+
+![image](https://github.com/dtd1614/Learning-management-system/assets/116648310/edd936b3-face-4a29-8af2-b94be5f1acc5)
+
+</div>
+</details>
 
