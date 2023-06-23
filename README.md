@@ -6,6 +6,8 @@ GRPC를 사용한 CLI 학사관리 프로그램
 
 ![image](https://github.com/dtd1614/Learning-management-system/assets/116648310/4537e76e-0f47-4981-b947-9e01d648a54e)
 
+## 기능 시퀀스
+
 <details>
 <summary>로그인 기능 시퀀스</summary>
 <div markdown="1">       
