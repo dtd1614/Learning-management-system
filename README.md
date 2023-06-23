@@ -1,5 +1,7 @@
 # Learning-management-system
 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+
 GRPC를 사용한 CLI 학사관리 시스템
 
 ## 시스템 구조
