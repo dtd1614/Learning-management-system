@@ -1,3 +1,14 @@
 # Learning-management-system
 GRPC를 사용한 CLI 학사관리 프로그램  
-[프로젝트 보고서.pdf](https://github.com/dtd1614/Learning-management-system/files/11111501/default.pdf)
+
+<details>
+<summary>여기를 눌러주세요</summary>
+<div markdown="1">       
+
+😎숨겨진 내용😎
+
+</div>
+</details>
+
+
+
