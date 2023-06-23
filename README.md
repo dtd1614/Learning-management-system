@@ -50,7 +50,7 @@ GRPC를 사용한 CLI 학사관리 프로그램
 </details>
 
 <details>
-<summary>학생 or 강의 삭 기능 시퀀스</summary>
+<summary>학생 or 강의 삭제 기능 시퀀스</summary>
 <div markdown="1">       
 
 ![image](https://github.com/dtd1614/Learning-management-system/assets/116648310/5ecae7a8-e57d-4538-9db7-36397a07cb13)
@@ -65,15 +65,6 @@ GRPC를 사용한 CLI 학사관리 프로그램
 <div markdown="1">       
 
 ![image](https://github.com/dtd1614/Learning-management-system/assets/116648310/acc4d253-dd7e-441a-a78c-67741ddafda7)
-
-</div>
-</details>
-
-<details>
-<summary>로깅 기능 시퀀스</summary>
-<div markdown="1">       
-
-![image](https://github.com/dtd1614/Learning-management-system/assets/116648310/2b606a8c-aa24-47dc-806b-14f03833675a)
 
 </div>
 </details>
