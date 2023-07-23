@@ -5,7 +5,7 @@
 
 GRPC를 사용한 CLI 학사관리 시스템
 
-## 시스템 구조
+## 컴포넌트 다이어그램
 
 ![image](https://github.com/dtd1614/Learning-management-system/assets/116648310/4537e76e-0f47-4981-b947-9e01d648a54e)
 
